@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'class' => 'yii\db\Connection',
+    'dsn' => 'mysql:host=localhost;dbname=You database name',
+    'username' => 'You username in database',
+    'password' => 'You password',
+    'charset' => 'utf8',
+];
